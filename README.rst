@@ -1,4 +1,4 @@
-awesome-better-boto3
+awesome-aws
 ==============================================================================
 A curated collection of tools for native AWS Python SDK boto3 enhancement.
 
